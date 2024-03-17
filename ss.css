@@ -1,0 +1,51 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+  
+     
+  }
+  
+  
+  
+  nav  {
+   
+    background-color: #333;
+  }
+   
+  
+ 
+  header {
+    background-color: #f4f4f4;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  header h1 {
+    margin-bottom: 10px;
+  }
+  
+  header p {
+    color: #555;
+  }
+  
+ 
+  .inventory {
+    padding: 20px;
+  }
+  
+ 
+  footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+  }
+  
